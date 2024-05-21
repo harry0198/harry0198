@@ -1,10 +1,5 @@
 <div align="center">
-  <h1>Harry Drummond :wave:</h1>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/harry-drummond-103033202/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+  <h1>Harry :wave:</h1>
   <img src="https://komarev.com/ghpvc/?username=harry0198&style=flat-square&color=blue" alt=""/>
 </div>
 
